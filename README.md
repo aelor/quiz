@@ -7,7 +7,9 @@ A quiz application that takes a json and converts it into an interactive quiz wi
 ### First page of the app
 <img src="https://i.imgur.com/RBhyhqn.png" alt="First page of the app" />
 <br />
+
 ### Report Page
+
 <img src="https://i.imgur.com/SKPaKCH.png" alt="Report page" />
 <br />
 
